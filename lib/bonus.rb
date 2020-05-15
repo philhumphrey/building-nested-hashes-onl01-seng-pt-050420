@@ -21,7 +21,8 @@ def bonus
   }
 
   #code your solution here:
-epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
+epic_tragedy[:montague][:hero][:status] = "alive"
+puts epic_tragedy
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
